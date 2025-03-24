@@ -1,0 +1,21 @@
+name: flutter_application_1
+description: A new Flutter project.
+
+publish_to: "none" # Prevents accidental publishing
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0" # Adjust based on your Flutter SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5 # Ensure this is correctly indented
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
