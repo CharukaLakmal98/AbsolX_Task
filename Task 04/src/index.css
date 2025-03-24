@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+  font-family: poppins, sans-serif;
+  --tw-bg-opacity: 1;
+
+  color-scheme: dark;
+}
