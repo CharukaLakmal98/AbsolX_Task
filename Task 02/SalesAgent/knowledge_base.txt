@@ -1,0 +1,89 @@
+**Mobile Phones**
+ProductID,Product Name,Brand,Color,RAM,Storage,Battery
+101,Samsung Galaxy S24 Ultra,Samsung,Phantom Black,12GB,512GB,5000mAh
+102,Samsung Galaxy S24+,Samsung,Cream,8GB,256GB,4700mAh
+103,Samsung Galaxy A54,Samsung,Awesome Violet,8GB,128GB,5000mAh
+104,Samsung Galaxy M14,Samsung,Smoky Teal,6GB,128GB,6000mAh
+105,Apple iPhone 15 Pro Max,Apple,Natural Titanium,8GB,512GB,4422mAh
+106,Apple iPhone 15,Apple,Blue,6GB,128GB,3349mAh
+107,Apple iPhone 14,Apple,Midnight,6GB,256GB,3279mAh
+108,Apple iPhone SE (3rd Gen),Apple,Red,4GB,64GB,2018mAh
+109,Google Pixel 8 Pro,Google,Obsidian,12GB,512GB,5050mAh
+110,Google Pixel 7a,Google,Coral,8GB,128GB,4385mAh
+111,OnePlus 12,OnePlus,Flowy Emerald,16GB,512GB,5400mAh
+112,OnePlus Nord 3,OnePlus,Misty Green,12GB,256GB,5000mAh
+113,OnePlus 11,OnePlus,Titan Black,16GB,512GB,5000mAh
+114,Xiaomi 13 Pro,Xiaomi,Ceramic White,12GB,512GB,4820mAh
+115,Xiaomi Redmi Note 12,Xiaomi,Ice Blue,6GB,128GB,5000mAh
+116,Xiaomi Poco X5 Pro,Xiaomi,Horizon Blue,8GB,256GB,5000mAh
+117,Oppo Find X6 Pro,Oppo,Brown,16GB,512GB,5000mAh
+118,Oppo Reno 10 Pro+,Oppo,Glossy Purple,12GB,256GB,4700mAh
+119,Oppo A78,Oppo,Aqua Green,8GB,128GB,5000mAh
+120,Vivo X90 Pro,Vivo,Legend Black,12GB,256GB,4870mAh
+121,Vivo V27e,Vivo,Lavender Purple,8GB,128GB,4600mAh
+122,Realme GT3,Realme,Pulse White,16GB,1TB,4600mAh
+123,Realme Narzo 60 Pro,Realme,Mars Orange,12GB,256GB,5000mAh
+124,Asus ROG Phone 7 Ultimate,Asus,Storm White,16GB,512GB,6000mAh
+125,Asus Zenfone 10,Asus,Starry Blue,16GB,512GB,4300mAh
+126,Nokia G60,Nokia,Ice Gray,6GB,128GB,4500mAh
+127,Sony Xperia 1 V,Sony,Khaki Green,12GB,256GB,5000mAh
+128,Huawei P60 Pro,Huawei,Black,12GB,512GB,4815mAh
+129,Huawei Nova 11,Huawei,Green,8GB,256GB,4500mAh
+130,Motorola Edge 40,Motorola,Reseda Green,8GB,256GB,4400mAh
+
+**Laptop **
+ProductID,Product Name,Brand,Operating System,Processor,RAM,Storage,Display Size,Graphics Card
+201,MacBook Pro 16-inch,Apple,macOS,Apple M3 Max,32GB,1TB SSD,16.2 inch,Apple M3 Max GPU
+202,MacBook Air 13-inch,Apple,macOS,Apple M2,8GB,256GB SSD,13.6 inch,Apple M2 GPU
+203,Dell XPS 15,Dell,Windows 11,Intel Core i9,32GB,1TB SSD,15.6 inch,NVIDIA GeForce RTX 4070
+204,Dell XPS 13 Plus,Dell,Windows 11,Intel Core i7,16GB,512GB SSD,13.4 inch,Intel Iris Xe Graphics
+205,HP Spectre x360 14,HP,Windows 11,Intel Core i7,16GB,1TB SSD,13.5 inch,Intel Iris Xe Graphics
+206,HP Envy 13,HP,Windows 11,Intel Core i5,8GB,512GB SSD,13.3 inch,Intel Iris Xe Graphics
+207,Lenovo ThinkPad X1 Carbon Gen 11,Lenovo,Windows 11,Intel Core i7,16GB,512GB SSD,14 inch,Intel Iris Xe Graphics
+208,Lenovo Legion Pro 7i,Lenovo,Windows 11,Intel Core i9,32GB,1TB SSD,16 inch,NVIDIA GeForce RTX 4080
+209,ASUS ROG Zephyrus G14,ASUS,Windows 11,AMD Ryzen 9,16GB,1TB SSD,14 inch,NVIDIA GeForce RTX 4060
+210,ASUS Zenbook 14 OLED,ASUS,Windows 11,AMD Ryzen 7,16GB,512GB SSD,14 inch,AMD Radeon Graphics
+211,Microsoft Surface Laptop 5,Microsoft,Windows 11,Intel Core i7,16GB,512GB SSD,13.5 inch,Intel Iris Xe Graphics
+212,Microsoft Surface Pro 9,Microsoft,Windows 11,Intel Core i5,8GB,256GB SSD,13 inch,Intel Iris Xe Graphics
+213,Acer Swift X,Acer,Windows 11,AMD Ryzen 7,16GB,1TB SSD,14 inch,NVIDIA GeForce RTX 3050 Ti
+214,Acer Predator Helios 300,Acer,Windows 11,Intel Core i7,16GB,512GB SSD,15.6 inch,NVIDIA GeForce RTX 3060
+215,LG Gram 17,LG,Windows 11,Intel Core i7,16GB,1TB SSD,17 inch,Intel Iris Xe Graphics
+216,LG Gram 16 2-in-1,LG,Windows 11,Intel Core i5,8GB,512GB SSD,16 inch,Intel Iris Xe Graphics
+217,Razer Blade 15,Razer,Windows 11,Intel Core i9,32GB,1TB SSD,15.6 inch,NVIDIA GeForce RTX 4090
+218,Razer Blade 14,Razer,Windows 11,AMD Ryzen 9,16GB,1TB SSD,14 inch,NVIDIA GeForce RTX 4070
+219,MSI Stealth 15,MSI,Windows 11,Intel Core i7,16GB,1TB SSD,15.6 inch,NVIDIA GeForce RTX 4060
+220,MSI Creator Z16,MSI,Windows 11,Intel Core i9,32GB,2TB SSD,16 inch,NVIDIA GeForce RTX 3060
+221,Samsung Galaxy Book3 Ultra,Samsung,Windows 11,Intel Core i9,32GB,1TB SSD,16 inch,NVIDIA GeForce RTX 4070
+222,Samsung Galaxy Book3 Pro 360,Samsung,Windows 11,Intel Core i7,16GB,512GB SSD,16 inch,Intel Iris Xe Graphics
+223,Huawei MateBook X Pro,Huawei,Windows 11,Intel Core i7,16GB,1TB SSD,14.2 inch,Intel Iris Xe Graphics
+224,Huawei MateBook 16s,Huawei,Windows 11,Intel Core i9,16GB,512GB SSD,16 inch,Intel Iris Xe Graphics
+225,Framework Laptop 13,Framework,Windows 11,Intel Core i7,16GB,512GB SSD,13.5 inch,Intel Iris Xe Graphics
+226,Framework Laptop 16,Framework,AMD Ryzen 7,32GB,1TB SSD,16 inch,AMD Radeon Graphics
+227,Alienware m18,Alienware,Windows 11,Intel Core i9,64GB,2TB SSD,18 inch,NVIDIA GeForce RTX 4090
+228,Alienware x14 R2,Alienware,Windows 11,Intel Core i7,16GB,1TB SSD,14 inch,NVIDIA GeForce RTX 4060
+229,Dynabook Portégé X40L-K,Dynabook,Windows 11,Intel Core i7,16GB,512GB SSD,14 inch,Intel Iris Xe Graphics
+230,Dynabook Tecra A50-K,Dynabook,Windows 11,Intel Core i5,8GB,256GB SSD,15.6 inch,Intel Iris Xe Graphics
+
+**Smartphone **
+ProductID,Product Name,Brand,Color,RAM,Storage,Battery
+301,Google Pixel 8a,Google,Aloe,8GB,128GB,4500mAh
+302,Sony Xperia 5 V,Sony,Platinum Silver,8GB,128GB,5000mAh
+303,Motorola Razr 40 Ultra,Motorola,Glacier Blue,8GB,256GB,3800mAh
+304,Motorola Moto G Power 5G,Motorola,Mineral Black,6GB,256GB,5000mAh
+305,Huawei P60,Huawei,Rococo Pearl,8GB,256GB,4815mAh
+306,Huawei Nova 11 Pro,Huawei,Golden Black,8GB,256GB,4500mAh
+307,Nokia XR21,Nokia,Pine Green,6GB,128GB,4800mAh
+308,Nokia C32,Nokia,Charcoal,4GB,64GB,5000mAh
+309,Asus ROG Phone 8 Pro,Asus,Phantom Black,16GB,512GB,5500mAh
+310,Asus Zenfone 9,Asus,Moonlight White,8GB,256GB,4300mAh
+311,Realme GT5 Pro,Realme,Red Rock,16GB,1TB,5400mAh
+312,Realme C55,Realme,Sunshower,8GB,256GB,5000mAh
+313,Vivo X100 Pro,Vivo,Asteroid Black,12GB,512GB,5400mAh
+314,Vivo Y36,Vivo,Meteor Black,8GB,256GB,5000mAh
+315,Oppo Find N3 Flip,Oppo,Cream Gold,12GB,256GB,4300mAh
+316,Oppo A98 5G,Oppo,Dreamy Blue,8GB,256GB,5000mAh
+317,Xiaomi 14 Pro,Xiaomi,Black,12GB,512GB,4880mAh
+318,Xiaomi Redmi Note 13 Pro+,Xiaomi,Aurora Purple,8GB,256GB,5000mAh
+319,OnePlus 12R,OnePlus,Cool Blue,16GB,256GB,5500mAh
+320,OnePlus Nord CE 3 Lite,OnePlus,Pastel Lime,8GB,256GB,5000mAh
+321,Samsung Galaxy Z Fold 5,Samsung,Icy
